@@ -2,7 +2,7 @@ import 'package:core/core.dart';
 import 'package:dio/dio.dart';
 import 'package:domain/domain.dart';
 import 'package:get_it/get_it.dart';
-import 'package:package_info/package_info.dart';
+import 'package:package_info_plus/package_info_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 import '../data_source/local/shared_preferences_store.dart';
